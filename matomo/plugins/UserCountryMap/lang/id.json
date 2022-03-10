@@ -1,0 +1,25 @@
+{
+    "UserCountryMap": {
+        "AndNOthers": "dan %s lain",
+        "Cities": "Kota",
+        "Countries": "Negara",
+        "DaysAgo": "%s hari lalu",
+        "GoalConversions": "%s konversi tujuan",
+        "HoursAgo": "%s jam lalu",
+        "MinutesAgo": "%s menit lalu",
+        "NoVisit": "Tidak ada kunjungan",
+        "None": "Tidak Ada",
+        "PluginDescription": "Pengaya ini menyediakan gawit Peta Pengunjung dan Peta Waktu-Nyata. Catatan: Membutuhkan pengaya NegaraPengguna diaktifkan.",
+        "RealTimeMap": "Peta Waktu-Nyata",
+        "Regions": "Wilayah",
+        "Searches": "%s pencarian",
+        "SecondsAgo": "%s detik lalu",
+        "ShowingVisits": "Kunjungan Lokasi-Geo terakhir",
+        "Unlocated": "<b>%1$s</b> %2$s kunjungan dari %3$s lokasi-geo tidak diketahui.",
+        "VisitorMap": "Peta Pengunjung",
+        "WithUnknownCity": "%s dengan kota tidak dikenal",
+        "WithUnknownRegion": "%s dengan wilayah tidak dikenal",
+        "WorldWide": "Seluruh Dunia",
+        "map": "peta"
+    }
+}

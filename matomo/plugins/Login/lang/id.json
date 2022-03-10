@@ -1,0 +1,20 @@
+{
+    "Login": {
+        "ChangeYourPassword": "Ubah sandi lewat Anda",
+        "ConfirmationLinkSent": "Tautan konfirmasi telah dikirim ke kotak masuk Anda. Periksa surel Anda dan kunjungi tautan ini untuk memberi izin permintaan perubahan sandi Anda.",
+        "ExceptionInvalidSuperUserAccessAuthenticationMethod": "Pengguna dengan akses Pengguna Super tidak bisa diautentikasi menggunakan mekanisme '%s'",
+        "ExceptionPasswordMD5HashExpected": "Parameter sandi diperkirakan menjadi hash MD5 dari sandi.",
+        "InvalidOrExpiredToken": "Kepingan tak sahih atau telah kedaluwarsa.",
+        "InvalidUsernameEmail": "Nama-id dan/atau alamat surel tak sahih",
+        "LogIn": "Masuk-log",
+        "LoginPasswordNotCorrect": "Nama-id dan Sandi tak sesuai",
+        "LostYourPassword": "Lupa sandi?",
+        "MailTopicPasswordChange": "Konfirmasi Pengubahan Sandi",
+        "NewPassword": "Sandi lewat baru",
+        "NewPasswordRepeat": "Sandi lewat baru (ulangi)",
+        "PasswordChanged": "Sandi Anda telah berubah.",
+        "PasswordRepeat": "Sandi (ulangi)",
+        "PasswordsDoNotMatch": "Sandi tak sesuai.",
+        "RememberMe": "Ingat Saya"
+    }
+}
